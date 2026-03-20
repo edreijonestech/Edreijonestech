@@ -4,7 +4,7 @@
 
 
   - [Active Directory Home Lab](https://github.com/edreijonestech/ActiveDirectoryLab/tree/main)
-  - [Building a Network With Cisco Packet Tracer Lab]([https://github.com/](https://github.com/edreijonestech/Building-a-Network-With-Cisco-Packet-Tracer-Lab))
+  - [Building a Network With Cisco Packet Tracer Lab](https://github.com/edreijonestech/Building-a-Network-With-Cisco-Packet-Tracer-Lab))
   - [Help Desk Ticketing System Lab (Freshdesk)](https://github.com/edreijonestech/HomeTicketingSystem)
 
 
